@@ -1,6 +1,6 @@
 {
 
-  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "http://www.饭太硬.com/深色壁纸/api.php",
     "spider": "http://yun.yunqiji.vip/min/xmbjm.jar",
     "sites": [
         {
